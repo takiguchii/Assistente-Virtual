@@ -56,4 +56,6 @@ NAVEGADOR_URL = "www.google.com"
 def chrome():
     animate_text("Abrindo o chrome :3...")
     webbrowser.open(NAVEGADOR_URL, new=2)
+
+print("")
     
