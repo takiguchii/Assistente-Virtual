@@ -1,13 +1,13 @@
-Assistente Virtual Simples
+# Assistente Virtual 
 
 
-Este projeto é uma assistente virtual simples, desenvolvida em Python e disponibilizada como código aberto. O objetivo é fornecer uma base para criar assistentes virtuais personalizados com funcionalidades básicas.
+Este projeto é uma assistente virtual simples desenvolvida em Python, com o objetivo de automatizar tarefas, personalizar e proporcionar diversão. Disponível como código aberto, a assistente serve como uma base para criar soluções personalizadas que atendem às suas necessidades específicas.
 
-Linguagens Utilizadas
-Python: A principal linguagem de programação utilizada para implementar a lógica e funcionalidades da assistente virtual.
-Descrição do Projeto
-A Assistente Virtual Simples é um projeto de código aberto que visa ajudar os desenvolvedores a criar assistentes virtuais personalizados. O projeto é desenvolvido em Python e fornece uma estrutura básica que pode ser expandida com novas funcionalidades.
+### Descrição do Projeto
+A Assistente Virtual Simples é projetada para ser uma ferramenta versátil que pode automatizar tarefas do dia a dia, ser personalizada para atender a diferentes necessidades e proporcionar uma experiência divertida. Com a capacidade de reconhecer fala e processar áudio, ela é uma base sólida para expandir e adicionar novas funcionalidades conforme necessário.
 
-Funcionalidades
-Reconhecimento de Fala: Utiliza a biblioteca SpeechRecognition para converter fala em texto.
-Saída de Áudio: Utiliza PyAudio para capturar e processar o áudio.
+
+### Funcionalidades
+* __Reconhecimento de Fala:__ Utiliza a biblioteca SpeechRecognition para converter fala em texto.
+* __Saída de Áudio:__ Utiliza PyAudio para capturar e processar o áudio.
+
