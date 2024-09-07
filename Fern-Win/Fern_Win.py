@@ -38,12 +38,12 @@ from audio_options import PrevisãoDoTempo, musica, discord, maps, tradutor, exi
 
 #função principal (main)
 def main():
-    print("Pressione a tecla (pause) para ativar o reconhecimento de voz.")
+    print("Pressione a tecla ( Pause ) para ativar o reconhecimento de voz.")
     while True:
         if keyboard.is_pressed("pause"):
             command = listen_command()
             if command:
                 execute_command(command)
-            print("Pressione F1 novamente para realizar outro comando.")
+            print("Pressione a tecla ( Pause ) novamente para realizar outro comando.")
 if __name__ == "__main__":
     main()
